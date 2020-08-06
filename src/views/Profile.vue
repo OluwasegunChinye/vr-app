@@ -12,7 +12,7 @@
                             <v-text-field filled value="123456789" label="Engine Number" readonly="" append-icon="fas fa-lock"></v-text-field>
                             <v-text-field filled value="WXYZABCD12349876" label="Chasis Number" readonly="" append-icon="fas fa-lock"></v-text-field>
                              <v-btn class="text-capitalize pa-5 white--text" style="background: linear-gradient(to right, #fc6767, #ec008c);" large
-                              router to="/Payment">click to Renew</v-btn>
+                             block router to="/Payment">click to Renew</v-btn>
                         </v-col>
                     </v-row>
                 </v-container>
