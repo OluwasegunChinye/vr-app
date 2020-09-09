@@ -22,7 +22,12 @@
                     <!-- </v-card> -->
                 </v-col>
             </v-row>
-            <!-- <v-btn block style="margin-top: 25px;" route to="/"  color="#01579B" class="white--text text-capitalize">Go to Home page</v-btn> -->
+            <!-- <v-row justify="center">
+                <v-col cols="9" sm="6">
+                    <v-btn block style="margin-top: 25px; background:linear-gradient(to right, #fc6767, #ec008c);" route to="/"  class="white--text text-capitalize">Go to Home page
+                    </v-btn>
+                </v-col>
+            </v-row> -->
         </v-container>
     </div>
 </template>
